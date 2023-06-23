@@ -55,6 +55,10 @@
       "allowedCategories": [ "production" ]
     },
     {
+      "name": "rimraf",
+      "allowedCategories": [ "tools" ]
+    },
+    {
       "name": "tailwindcss",
       "allowedCategories": [ "production" ]
     },

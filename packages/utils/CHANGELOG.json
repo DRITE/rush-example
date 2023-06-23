@@ -1,0 +1,17 @@
+{
+  "name": "@my-r-poc/test-utils",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@my-r-poc/test-utils_v1.0.1",
+      "date": "Fri, 23 Jun 2023 11:09:58 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": " add tsdoc to summation util"
+          }
+        ]
+      }
+    }
+  ]
+}

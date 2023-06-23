@@ -10,6 +10,9 @@ importers:
 
   ../../apps/first-app:
     dependencies:
+      '@my-r-poc/test-utils':
+        specifier: workspace:*
+        version: link:../../packages/utils
       '@types/node':
         specifier: 20.3.1
         version: 20.3.1

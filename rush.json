@@ -439,7 +439,8 @@
       "packageName": "first-app",
       "projectFolder": "apps/first-app",
       "tags": ["production", "nextjs", "app"],
-      "reviewCategory": "production"
+      "reviewCategory": "production",
+      "versionPolicyName": "FirstAppPolicy"
     }
   ]
 }

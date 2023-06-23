@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "first-app",
+      "comment": "set `dist` folder as distDir",
+      "type": "patch"
+    }
+  ],
+  "packageName": "first-app"
+}

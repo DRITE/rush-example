@@ -1,6 +1,13 @@
 # Change Log - @my-r-poc/test-utils
 
-This log was last generated on Fri, 23 Jun 2023 16:00:36 GMT and should not be manually modified.
+This log was last generated on Fri, 23 Jun 2023 16:19:31 GMT and should not be manually modified.
+
+## 1.0.4
+Fri, 23 Jun 2023 16:19:31 GMT
+
+### Patches
+
+- tsdoc 1
 
 ## 1.0.3
 Fri, 23 Jun 2023 16:00:36 GMT

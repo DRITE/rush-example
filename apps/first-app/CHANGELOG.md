@@ -1,6 +1,11 @@
 # Change Log - first-app
 
-This log was last generated on Fri, 23 Jun 2023 15:15:18 GMT and should not be manually modified.
+This log was last generated on Fri, 23 Jun 2023 16:00:36 GMT and should not be manually modified.
+
+## 0.1.3
+Fri, 23 Jun 2023 16:00:36 GMT
+
+_Version update only_
 
 ## 0.1.2
 Fri, 23 Jun 2023 15:15:18 GMT

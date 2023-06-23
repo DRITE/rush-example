@@ -2,6 +2,18 @@
   "name": "first-app",
   "entries": [
     {
+      "version": "0.1.2",
+      "tag": "first-app_v0.1.2",
+      "date": "Fri, 23 Jun 2023 15:15:18 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@my-r-poc/test-utils\" to `1.0.2`"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.1.1",
       "tag": "first-app_v0.1.1",
       "date": "Fri, 23 Jun 2023 12:29:39 GMT",

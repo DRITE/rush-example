@@ -1,0 +1,17 @@
+{
+  "name": "first-app",
+  "entries": [
+    {
+      "version": "0.1.1",
+      "tag": "first-app_v0.1.1",
+      "date": "Fri, 23 Jun 2023 12:29:39 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "set `dist` folder as distDir"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -2,6 +2,18 @@
   "name": "@my-r-poc/test-utils",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@my-r-poc/test-utils_v1.0.2",
+      "date": "Fri, 23 Jun 2023 15:15:18 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "fix build script"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@my-r-poc/test-utils_v1.0.1",
       "date": "Fri, 23 Jun 2023 11:09:58 GMT",

@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@my-r-poc/test-utils",
+      "comment": "fix tsdoc",
+      "type": "patch"
+    }
+  ],
+  "packageName": "@my-r-poc/test-utils"
+}

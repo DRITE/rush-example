@@ -99,9 +99,9 @@
   //
   //   // "includeEmailInChangeFile": true
   // }
-//  {
-//    "definitionName": "individualVersion",
-//    "policyName": "FirstAppPolicy",
-//    "lockedMajor": 0
-//  }
+  {
+    "definitionName": "individualVersion",
+    "policyName": "FirstAppPolicy",
+    "lockedMajor": 0
+  }
 ]
